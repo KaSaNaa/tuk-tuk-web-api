@@ -1,0 +1,57 @@
+{
+  "name": "tuk-tuk-tracking-api",
+  "version": "1.0.0",
+  "description": "Sri Lanka Police Real-Time Three-Wheeler Tracking & Movement Logging System API",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js",
+    "seed": "node src/data/seed.js",
+    "simulate": "node scripts/simulate.js",
+    "lint": "eslint src/ --ext .js",
+    "lint:fix": "eslint src/ --ext .js --fix",
+    "test": "jest --forceExit --detectOpenHandles"
+  },
+  "keywords": [
+    "police",
+    "tracking",
+    "tuk-tuk",
+    "api",
+    "sri-lanka"
+  ],
+  "author": "Sri Lanka Police ICT Division",
+  "license": "ISC",
+  "dependencies": {
+    "@seald-io/nedb": "^4.1.2",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.3.2",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.1.0",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^14.0.0",
+    "xss": "^1.0.15"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^9.0.0",
+    "jest": "^29.0.0",
+    "supertest": "^7.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ],
+    "setupFiles": [
+      "<rootDir>/tests/setup.js"
+    ]
+  }
+}
