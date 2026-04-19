@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Ampara",
+    "code": "AMP",
+    "provinceId": "ai2mLFZELWl6hXdY",
+    "coordinates": {
+      "latitude": 7.2987,
+      "longitude": 81.6669
+    },
+    "createdAt": "2026-04-22T21:02:03.317Z",
+    "_id": "X6tnPTyIiWRpdEMh",
+    "province": {
+      "name": "Eastern Province",
+      "code": "EP",
+      "_id": "ai2mLFZELWl6hXdY"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Anuradhapura",
+    "code": "ADP",
+    "provinceId": "TxvTtMQJETzST3wQ",
+    "coordinates": {
+      "latitude": 8.3456,
+      "longitude": 80.4069
+    },
+    "createdAt": "2026-04-22T21:02:03.318Z",
+    "_id": "myq89YoLC7KPwsya",
+    "province": {
+      "name": "North Central Province",
+      "code": "NC",
+      "_id": "TxvTtMQJETzST3wQ"
+    },
+    "stationCount": 1
+  },
+  {
+    "name": "Badulla",
+    "code": "BDL",
+    "provinceId": "qSFW9pORmJaNMXKR",
+    "coordinates": {
+      "latitude": 6.9934,
+      "longitude": 81.055
+    },
+    "createdAt": "2026-04-22T21:02:03.319Z",
+    "_id": "2bK6bPOvhL7PaJhK",
+    "province": {
+      "name": "Uva Province",
+      "code": "UV",
+      "_id": "qSFW9pORmJaNMXKR"
+    },
+    "stationCount": 1
+  },
+  {
+    "name": "Batticaloa",
+    "code": "BTC",
+    "provinceId": "ai2mLFZELWl6hXdY",
+    "coordinates": {
+      "latitude": 7.717,
+      "longitude": 81.6924
+    },
+    "createdAt": "2026-04-22T21:02:03.317Z",
+    "_id": "GLTgzt62n7qRSpNl",
+    "province": {
+      "name": "Eastern Province",
+      "code": "EP",
+      "_id": "ai2mLFZELWl6hXdY"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Colombo",
+    "code": "CMB",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "coordinates": {
+      "latitude": 6.9271,
+      "longitude": 79.8612
+    },
+    "createdAt": "2026-04-22T21:02:03.311Z",
+    "_id": "hazUaZ1jBQKVhdE6",
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "stationCount": 5
+  },
+  {
+    "name": "Galle",
+    "code": "GLL",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "coordinates": {
+      "latitude": 6.0535,
+      "longitude": 80.221
+    },
+    "createdAt": "2026-04-22T21:02:03.314Z",
+    "_id": "A8FDB1h8wdeTrjjQ",
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "stationCount": 3
+  },
+  {
+    "name": "Gampaha",
+    "code": "GMP",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "coordinates": {
+      "latitude": 7.0873,
+      "longitude": 79.9994
+    },
+    "createdAt": "2026-04-22T21:02:03.312Z",
+    "_id": "1bW7jIT16EVTTGIA",
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "stationCount": 3
+  },
+  {
+    "name": "Hambantota",
+    "code": "HBT",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "coordinates": {
+      "latitude": 6.1241,
+      "longitude": 81.1185
+    },
+    "createdAt": "2026-04-22T21:02:03.314Z",
+    "_id": "rbKWXMlRUq2exNqt",
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Jaffna",
+    "code": "JFN",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "coordinates": {
+      "latitude": 9.6615,
+      "longitude": 80.0255
+    },
+    "createdAt": "2026-04-22T21:02:03.315Z",
+    "_id": "JLDddS9ioJgN0QfA",
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "stationCount": 2
+  },
+  {
+    "name": "Kalutara",
+    "code": "KLT",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "coordinates": {
+      "latitude": 6.5854,
+      "longitude": 79.9607
+    },
+    "createdAt": "2026-04-22T21:02:03.312Z",
+    "_id": "AgEgq9AawDy7X8MQ",
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "stationCount": 1
+  },
+  {
+    "name": "Kandy",
+    "code": "KND",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "coordinates": {
+      "latitude": 7.2906,
+      "longitude": 80.6337
+    },
+    "createdAt": "2026-04-22T21:02:03.313Z",
+    "_id": "yWBMwWmKJegSVxho",
+    "province": {
+      "name": "Central Province",
+      "code": "CP",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "stationCount": 3
+  },
+  {
+    "name": "Kegalle",
+    "code": "KGL",
+    "provinceId": "gmtCJVyJsKcPKIgm",
+    "coordinates": {
+      "latitude": 7.2513,
+      "longitude": 80.3464
+    },
+    "createdAt": "2026-04-22T21:02:03.320Z",
+    "_id": "Acjac3DOJmUTTuQq",
+    "province": {
+      "name": "Sabaragamuwa Province",
+      "code": "SB",
+      "_id": "gmtCJVyJsKcPKIgm"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Kilinochchi",
+    "code": "KLN",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "coordinates": {
+      "latitude": 9.3803,
+      "longitude": 80.4037
+    },
+    "createdAt": "2026-04-22T21:02:03.315Z",
+    "_id": "13UB4Z5ZDuAxwGzh",
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Kurunegala",
+    "code": "KRN",
+    "provinceId": "3hU72QKld2O7l4yb",
+    "coordinates": {
+      "latitude": 7.4818,
+      "longitude": 80.3609
+    },
+    "createdAt": "2026-04-22T21:02:03.318Z",
+    "_id": "1H8wBa3owdZbfFzz",
+    "province": {
+      "name": "North Western Province",
+      "code": "NW",
+      "_id": "3hU72QKld2O7l4yb"
+    },
+    "stationCount": 2
+  },
+  {
+    "name": "Mannar",
+    "code": "MNR",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "coordinates": {
+      "latitude": 8.976,
+      "longitude": 79.9044
+    },
+    "createdAt": "2026-04-22T21:02:03.315Z",
+    "_id": "mbTPbuq6uoPcTqe2",
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Matale",
+    "code": "MTL",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "coordinates": {
+      "latitude": 7.4675,
+      "longitude": 80.6234
+    },
+    "createdAt": "2026-04-22T21:02:03.313Z",
+    "_id": "E1pf878mgGrgCzMY",
+    "province": {
+      "name": "Central Province",
+      "code": "CP",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Matara",
+    "code": "MAT",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "coordinates": {
+      "latitude": 5.9549,
+      "longitude": 80.555
+    },
+    "createdAt": "2026-04-22T21:02:03.314Z",
+    "_id": "5Socn7Y5OL6WTuLF",
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "stationCount": 1
+  },
+  {
+    "name": "Monaragala",
+    "code": "MRG",
+    "provinceId": "qSFW9pORmJaNMXKR",
+    "coordinates": {
+      "latitude": 6.8728,
+      "longitude": 81.3507
+    },
+    "createdAt": "2026-04-22T21:02:03.320Z",
+    "_id": "dDdBEfjz2PJCDIHv",
+    "province": {
+      "name": "Uva Province",
+      "code": "UV",
+      "_id": "qSFW9pORmJaNMXKR"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Mullaitivu",
+    "code": "MLT",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "coordinates": {
+      "latitude": 9.2671,
+      "longitude": 80.8122
+    },
+    "createdAt": "2026-04-22T21:02:03.316Z",
+    "_id": "R9vEj5JqaAduRlCg",
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Nuwara Eliya",
+    "code": "NWE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "coordinates": {
+      "latitude": 6.9497,
+      "longitude": 80.7891
+    },
+    "createdAt": "2026-04-22T21:02:03.313Z",
+    "_id": "IlMuUB9WyWlCnOHO",
+    "province": {
+      "name": "Central Province",
+      "code": "CP",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Polonnaruwa",
+    "code": "PLN",
+    "provinceId": "TxvTtMQJETzST3wQ",
+    "coordinates": {
+      "latitude": 7.9403,
+      "longitude": 81.0002
+    },
+    "createdAt": "2026-04-22T21:02:03.319Z",
+    "_id": "Z4qtlxemZpl0LLTU",
+    "province": {
+      "name": "North Central Province",
+      "code": "NC",
+      "_id": "TxvTtMQJETzST3wQ"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Puttalam",
+    "code": "PTL",
+    "provinceId": "3hU72QKld2O7l4yb",
+    "coordinates": {
+      "latitude": 8.0362,
+      "longitude": 79.8283
+    },
+    "createdAt": "2026-04-22T21:02:03.318Z",
+    "_id": "sVRdoHcqiOSKaTJK",
+    "province": {
+      "name": "North Western Province",
+      "code": "NW",
+      "_id": "3hU72QKld2O7l4yb"
+    },
+    "stationCount": 0
+  },
+  {
+    "name": "Ratnapura",
+    "code": "RTP",
+    "provinceId": "gmtCJVyJsKcPKIgm",
+    "coordinates": {
+      "latitude": 6.6828,
+      "longitude": 80.3992
+    },
+    "createdAt": "2026-04-22T21:02:03.320Z",
+    "_id": "0d2FbodLxYvpp4sN",
+    "province": {
+      "name": "Sabaragamuwa Province",
+      "code": "SB",
+      "_id": "gmtCJVyJsKcPKIgm"
+    },
+    "stationCount": 2
+  },
+  {
+    "name": "Trincomalee",
+    "code": "TRC",
+    "provinceId": "ai2mLFZELWl6hXdY",
+    "coordinates": {
+      "latitude": 8.5874,
+      "longitude": 81.2152
+    },
+    "createdAt": "2026-04-22T21:02:03.317Z",
+    "_id": "li38OV86vnFeRxGV",
+    "province": {
+      "name": "Eastern Province",
+      "code": "EP",
+      "_id": "ai2mLFZELWl6hXdY"
+    },
+    "stationCount": 1
+  },
+  {
+    "name": "Vavuniya",
+    "code": "VVN",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "coordinates": {
+      "latitude": 8.7514,
+      "longitude": 80.4971
+    },
+    "createdAt": "2026-04-22T21:02:03.316Z",
+    "_id": "5bujRvGeUam8i365",
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "stationCount": 0
+  }
+]
