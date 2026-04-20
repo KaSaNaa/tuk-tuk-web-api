@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Anuradhapura Police Station",
+    "code": "ADP",
+    "districtId": "myq89YoLC7KPwsya",
+    "provinceId": "TxvTtMQJETzST3wQ",
+    "stationType": "DISTRICT",
+    "address": "Anuradhapura Police Station, Anuradhapura, Sri Lanka",
+    "contactNumber": "+94252222099",
+    "coordinates": {
+      "latitude": 8.3456,
+      "longitude": 80.4069
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.371Z",
+    "_id": "aG6OKo76r6LMMpjN",
+    "district": {
+      "name": "Anuradhapura",
+      "code": "ADP",
+      "_id": "myq89YoLC7KPwsya"
+    },
+    "province": {
+      "name": "North Central Province",
+      "code": "NC",
+      "_id": "TxvTtMQJETzST3wQ"
+    },
+    "vehicleCount": 5
+  },
+  {
+    "name": "Badulla Police Station",
+    "code": "BDL",
+    "districtId": "2bK6bPOvhL7PaJhK",
+    "provinceId": "qSFW9pORmJaNMXKR",
+    "stationType": "DISTRICT",
+    "address": "Badulla Police Station, Badulla, Sri Lanka",
+    "contactNumber": "+94552222099",
+    "coordinates": {
+      "latitude": 6.9934,
+      "longitude": 81.055
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.371Z",
+    "_id": "hlFXIOpAScQJwEjG",
+    "district": {
+      "name": "Badulla",
+      "code": "BDL",
+      "_id": "2bK6bPOvhL7PaJhK"
+    },
+    "province": {
+      "name": "Uva Province",
+      "code": "UV",
+      "_id": "qSFW9pORmJaNMXKR"
+    },
+    "vehicleCount": 11
+  },
+  {
+    "name": "Colombo Fort Police Station",
+    "code": "COF",
+    "districtId": "hazUaZ1jBQKVhdE6",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "STATION",
+    "address": "Colombo Fort Police Station, Colombo, Sri Lanka",
+    "contactNumber": "+94112326941",
+    "coordinates": {
+      "latitude": 6.9337,
+      "longitude": 79.8487
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.322Z",
+    "_id": "xtQUtxMJg36KfNGd",
+    "district": {
+      "name": "Colombo",
+      "code": "CMB",
+      "_id": "hazUaZ1jBQKVhdE6"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 8
+  },
+  {
+    "name": "Dehiwala Police Station",
+    "code": "DHW",
+    "districtId": "hazUaZ1jBQKVhdE6",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "STATION",
+    "address": "Dehiwala Police Station, Colombo, Sri Lanka",
+    "contactNumber": "+94112718891",
+    "coordinates": {
+      "latitude": 6.8521,
+      "longitude": 79.8665
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.363Z",
+    "_id": "LeshpqCUzbW2MRq2",
+    "district": {
+      "name": "Colombo",
+      "code": "CMB",
+      "_id": "hazUaZ1jBQKVhdE6"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 13
+  },
+  {
+    "name": "Galle Fort Police Station",
+    "code": "GLF",
+    "districtId": "A8FDB1h8wdeTrjjQ",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "stationType": "STATION",
+    "address": "Galle Fort Police Station, Galle, Sri Lanka",
+    "contactNumber": "+94912222733",
+    "coordinates": {
+      "latitude": 6.029,
+      "longitude": 80.2168
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.368Z",
+    "_id": "xzsKHzyCBD2koC8M",
+    "district": {
+      "name": "Galle",
+      "code": "GLL",
+      "_id": "A8FDB1h8wdeTrjjQ"
+    },
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "vehicleCount": 8
+  },
+  {
+    "name": "Galle Provincial Police",
+    "code": "GLL",
+    "districtId": "A8FDB1h8wdeTrjjQ",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "stationType": "PROVINCIAL",
+    "address": "Galle Provincial Police, Galle, Sri Lanka",
+    "contactNumber": "+94912222099",
+    "coordinates": {
+      "latitude": 6.0535,
+      "longitude": 80.221
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.367Z",
+    "_id": "41KwwConVbT4pVzk",
+    "district": {
+      "name": "Galle",
+      "code": "GLL",
+      "_id": "A8FDB1h8wdeTrjjQ"
+    },
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "vehicleCount": 8
+  },
+  {
+    "name": "Gampaha Police Station",
+    "code": "GMP",
+    "districtId": "1bW7jIT16EVTTGIA",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "DISTRICT",
+    "address": "Gampaha Police Station, Gampaha, Sri Lanka",
+    "contactNumber": "+94332222222",
+    "coordinates": {
+      "latitude": 7.0873,
+      "longitude": 79.9994
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.364Z",
+    "_id": "IZEjcRZ2lqSrMhe9",
+    "district": {
+      "name": "Gampaha",
+      "code": "GMP",
+      "_id": "1bW7jIT16EVTTGIA"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 6
+  },
+  {
+    "name": "Hikkaduwa Police Station",
+    "code": "HKD",
+    "districtId": "A8FDB1h8wdeTrjjQ",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "stationType": "STATION",
+    "address": "Hikkaduwa Police Station, Galle, Sri Lanka",
+    "contactNumber": "+94912275511",
+    "coordinates": {
+      "latitude": 6.1395,
+      "longitude": 80.1059
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.368Z",
+    "_id": "7zotPvqwzIVeoKMT",
+    "district": {
+      "name": "Galle",
+      "code": "GLL",
+      "_id": "A8FDB1h8wdeTrjjQ"
+    },
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "vehicleCount": 9
+  },
+  {
+    "name": "Ja-Ela Police Station",
+    "code": "JEL",
+    "districtId": "1bW7jIT16EVTTGIA",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "STATION",
+    "address": "Ja-Ela Police Station, Gampaha, Sri Lanka",
+    "contactNumber": "+94112225544",
+    "coordinates": {
+      "latitude": 7.0734,
+      "longitude": 79.8913
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.365Z",
+    "_id": "ZqXXKGXscEO3LuMN",
+    "district": {
+      "name": "Gampaha",
+      "code": "GMP",
+      "_id": "1bW7jIT16EVTTGIA"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 9
+  },
+  {
+    "name": "Jaffna Central Police",
+    "code": "JFC",
+    "districtId": "JLDddS9ioJgN0QfA",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "stationType": "STATION",
+    "address": "Jaffna Central Police, Jaffna, Sri Lanka",
+    "contactNumber": "+94212222100",
+    "coordinates": {
+      "latitude": 9.669,
+      "longitude": 80.0072
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.369Z",
+    "_id": "yothxuQ7ypUhROpr",
+    "district": {
+      "name": "Jaffna",
+      "code": "JFN",
+      "_id": "JLDddS9ioJgN0QfA"
+    },
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "vehicleCount": 6
+  },
+  {
+    "name": "Jaffna Provincial Police",
+    "code": "JFN",
+    "districtId": "JLDddS9ioJgN0QfA",
+    "provinceId": "khX3YwwY2DEgMaDV",
+    "stationType": "PROVINCIAL",
+    "address": "Jaffna Provincial Police, Jaffna, Sri Lanka",
+    "contactNumber": "+94212222099",
+    "coordinates": {
+      "latitude": 9.6615,
+      "longitude": 80.0255
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.369Z",
+    "_id": "QkzGTGmB2cDPgYrF",
+    "district": {
+      "name": "Jaffna",
+      "code": "JFN",
+      "_id": "JLDddS9ioJgN0QfA"
+    },
+    "province": {
+      "name": "Northern Province",
+      "code": "NP",
+      "_id": "khX3YwwY2DEgMaDV"
+    },
+    "vehicleCount": 5
+  },
+  {
+    "name": "Kalutara Police Station",
+    "code": "KLT",
+    "districtId": "AgEgq9AawDy7X8MQ",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "DISTRICT",
+    "address": "Kalutara Police Station, Kalutara, Sri Lanka",
+    "contactNumber": "+94342222411",
+    "coordinates": {
+      "latitude": 6.5854,
+      "longitude": 79.9607
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.365Z",
+    "_id": "kC6qZSNvQZfJEY88",
+    "district": {
+      "name": "Kalutara",
+      "code": "KLT",
+      "_id": "AgEgq9AawDy7X8MQ"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 15
+  },
+  {
+    "name": "Kandy City Police Station",
+    "code": "KNC",
+    "districtId": "yWBMwWmKJegSVxho",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "stationType": "STATION",
+    "address": "Kandy City Police Station, Kandy, Sri Lanka",
+    "contactNumber": "+94812234567",
+    "coordinates": {
+      "latitude": 7.2938,
+      "longitude": 80.6407
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.366Z",
+    "_id": "GRMyCrXeyTtQd3OE",
+    "district": {
+      "name": "Kandy",
+      "code": "KND",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "code": "CP",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "vehicleCount": 7
+  },
+  {
+    "name": "Kandy Provincial Police",
+    "code": "KND",
+    "districtId": "yWBMwWmKJegSVxho",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "stationType": "PROVINCIAL",
+    "address": "Kandy Provincial Police, Kandy, Sri Lanka",
+    "contactNumber": "+94812222099",
+    "coordinates": {
+      "latitude": 7.2906,
+      "longitude": 80.6337
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.366Z",
+    "_id": "G05EsIcdfEWLMs1o",
+    "district": {
+      "name": "Kandy",
+      "code": "KND",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "code": "CP",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "vehicleCount": 6
+  },
+  {
+    "name": "Kurunegala City Station",
+    "code": "KRC",
+    "districtId": "1H8wBa3owdZbfFzz",
+    "provinceId": "3hU72QKld2O7l4yb",
+    "stationType": "STATION",
+    "address": "Kurunegala City Station, Kurunegala, Sri Lanka",
+    "contactNumber": "+94372222100",
+    "coordinates": {
+      "latitude": 7.4876,
+      "longitude": 80.3621
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.370Z",
+    "_id": "G5CK4dIztu174Ngz",
+    "district": {
+      "name": "Kurunegala",
+      "code": "KRN",
+      "_id": "1H8wBa3owdZbfFzz"
+    },
+    "province": {
+      "name": "North Western Province",
+      "code": "NW",
+      "_id": "3hU72QKld2O7l4yb"
+    },
+    "vehicleCount": 9
+  },
+  {
+    "name": "Kurunegala Provincial Police",
+    "code": "KRN",
+    "districtId": "1H8wBa3owdZbfFzz",
+    "provinceId": "3hU72QKld2O7l4yb",
+    "stationType": "PROVINCIAL",
+    "address": "Kurunegala Provincial Police, Kurunegala, Sri Lanka",
+    "contactNumber": "+94372222099",
+    "coordinates": {
+      "latitude": 7.4818,
+      "longitude": 80.3609
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.370Z",
+    "_id": "XryX3gG8VHzkhxdC",
+    "district": {
+      "name": "Kurunegala",
+      "code": "KRN",
+      "_id": "1H8wBa3owdZbfFzz"
+    },
+    "province": {
+      "name": "North Western Province",
+      "code": "NW",
+      "_id": "3hU72QKld2O7l4yb"
+    },
+    "vehicleCount": 7
+  },
+  {
+    "name": "Matara Police Station",
+    "code": "MAT",
+    "districtId": "5Socn7Y5OL6WTuLF",
+    "provinceId": "EfmsA53kZhAxdaOk",
+    "stationType": "DISTRICT",
+    "address": "Matara Police Station, Matara, Sri Lanka",
+    "contactNumber": "+94412222099",
+    "coordinates": {
+      "latitude": 5.9549,
+      "longitude": 80.555
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.372Z",
+    "_id": "K1wfqCE3HST30KpO",
+    "district": {
+      "name": "Matara",
+      "code": "MAT",
+      "_id": "5Socn7Y5OL6WTuLF"
+    },
+    "province": {
+      "name": "Southern Province",
+      "code": "SP",
+      "_id": "EfmsA53kZhAxdaOk"
+    },
+    "vehicleCount": 9
+  },
+  {
+    "name": "Negombo Police Station",
+    "code": "NGM",
+    "districtId": "1bW7jIT16EVTTGIA",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "STATION",
+    "address": "Negombo Police Station, Gampaha, Sri Lanka",
+    "contactNumber": "+94312223133",
+    "coordinates": {
+      "latitude": 7.2095,
+      "longitude": 79.838
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.365Z",
+    "_id": "DfEpbjKLddwoTRzS",
+    "district": {
+      "name": "Gampaha",
+      "code": "GMP",
+      "_id": "1bW7jIT16EVTTGIA"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 10
+  },
+  {
+    "name": "Nugegoda Police Station",
+    "code": "NGG",
+    "districtId": "hazUaZ1jBQKVhdE6",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "STATION",
+    "address": "Nugegoda Police Station, Colombo, Sri Lanka",
+    "contactNumber": "+94112853388",
+    "coordinates": {
+      "latitude": 6.8721,
+      "longitude": 79.8891
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.363Z",
+    "_id": "NENCaT2G77lwba21",
+    "district": {
+      "name": "Colombo",
+      "code": "CMB",
+      "_id": "hazUaZ1jBQKVhdE6"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 4
+  },
+  {
+    "name": "Peradeniya Police Station",
+    "code": "PRD",
+    "districtId": "yWBMwWmKJegSVxho",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "stationType": "STATION",
+    "address": "Peradeniya Police Station, Kandy, Sri Lanka",
+    "contactNumber": "+94812388901",
+    "coordinates": {
+      "latitude": 7.2677,
+      "longitude": 80.5963
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.367Z",
+    "_id": "ha32LQDOv9LyCnNZ",
+    "district": {
+      "name": "Kandy",
+      "code": "KND",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "code": "CP",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "vehicleCount": 8
+  },
+  {
+    "name": "Police Headquarters",
+    "code": "PHQ",
+    "districtId": "hazUaZ1jBQKVhdE6",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "HEADQUARTERS",
+    "address": "Police Headquarters, Colombo, Sri Lanka",
+    "contactNumber": "+94112421111",
+    "coordinates": {
+      "latitude": 6.9187,
+      "longitude": 79.8584
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.321Z",
+    "_id": "b2Zef0i44G4hQS2F",
+    "district": {
+      "name": "Colombo",
+      "code": "CMB",
+      "_id": "hazUaZ1jBQKVhdE6"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 8
+  },
+  {
+    "name": "Ratnapura City Station",
+    "code": "RTC",
+    "districtId": "0d2FbodLxYvpp4sN",
+    "provinceId": "gmtCJVyJsKcPKIgm",
+    "stationType": "STATION",
+    "address": "Ratnapura City Station, Ratnapura, Sri Lanka",
+    "contactNumber": "+94452222100",
+    "coordinates": {
+      "latitude": 6.685,
+      "longitude": 80.4011
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.372Z",
+    "_id": "Z820JkI3RQWdoq4x",
+    "district": {
+      "name": "Ratnapura",
+      "code": "RTP",
+      "_id": "0d2FbodLxYvpp4sN"
+    },
+    "province": {
+      "name": "Sabaragamuwa Province",
+      "code": "SB",
+      "_id": "gmtCJVyJsKcPKIgm"
+    },
+    "vehicleCount": 10
+  },
+  {
+    "name": "Ratnapura Provincial Police",
+    "code": "RTP",
+    "districtId": "0d2FbodLxYvpp4sN",
+    "provinceId": "gmtCJVyJsKcPKIgm",
+    "stationType": "PROVINCIAL",
+    "address": "Ratnapura Provincial Police, Ratnapura, Sri Lanka",
+    "contactNumber": "+94452222099",
+    "coordinates": {
+      "latitude": 6.6828,
+      "longitude": 80.3992
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.372Z",
+    "_id": "zaHrtJtGmtCCCP5t",
+    "district": {
+      "name": "Ratnapura",
+      "code": "RTP",
+      "_id": "0d2FbodLxYvpp4sN"
+    },
+    "province": {
+      "name": "Sabaragamuwa Province",
+      "code": "SB",
+      "_id": "gmtCJVyJsKcPKIgm"
+    },
+    "vehicleCount": 7
+  },
+  {
+    "name": "Trincomalee Police Station",
+    "code": "TRC",
+    "districtId": "li38OV86vnFeRxGV",
+    "provinceId": "ai2mLFZELWl6hXdY",
+    "stationType": "DISTRICT",
+    "address": "Trincomalee Police Station, Trincomalee, Sri Lanka",
+    "contactNumber": "+94262222099",
+    "coordinates": {
+      "latitude": 8.5874,
+      "longitude": 81.2152
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.370Z",
+    "_id": "vKYXDgvE0XZZI0I8",
+    "district": {
+      "name": "Trincomalee",
+      "code": "TRC",
+      "_id": "li38OV86vnFeRxGV"
+    },
+    "province": {
+      "name": "Eastern Province",
+      "code": "EP",
+      "_id": "ai2mLFZELWl6hXdY"
+    },
+    "vehicleCount": 9
+  },
+  {
+    "name": "Wellawatte Police Station",
+    "code": "WLW",
+    "districtId": "hazUaZ1jBQKVhdE6",
+    "provinceId": "nX4wvmoW9ateDCi3",
+    "stationType": "STATION",
+    "address": "Wellawatte Police Station, Colombo, Sri Lanka",
+    "contactNumber": "+94112502911",
+    "coordinates": {
+      "latitude": 6.8774,
+      "longitude": 79.859
+    },
+    "isActive": true,
+    "createdAt": "2026-04-22T21:02:03.322Z",
+    "_id": "G94uONVBWGkjLj43",
+    "district": {
+      "name": "Colombo",
+      "code": "CMB",
+      "_id": "hazUaZ1jBQKVhdE6"
+    },
+    "province": {
+      "name": "Western Province",
+      "code": "WP",
+      "_id": "nX4wvmoW9ateDCi3"
+    },
+    "vehicleCount": 13
+  }
+]
