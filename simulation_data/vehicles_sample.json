@@ -1,0 +1,870 @@
+[
+  {
+    "registrationNumber": "CP AQK-0145",
+    "deviceId": "DEV-0145",
+    "deviceImei": "166756524317205",
+    "make": "Ape",
+    "model": "City",
+    "colour": "Green",
+    "yearOfRegistration": 2018,
+    "engineNumber": "ENG385456",
+    "chassisNumber": "CHS786908483",
+    "driverId": "VRk2BSaxMlW5itg3",
+    "stationId": "GRMyCrXeyTtQd3OE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.677Z",
+    "_id": "hKtnYvLNo9Kr7X8w",
+    "lastLocation": {
+      "vehicleId": "hKtnYvLNo9Kr7X8w",
+      "latitude": 7.280136,
+      "longitude": 80.641813,
+      "speed": 18.1,
+      "heading": 68,
+      "accuracy": 12.7,
+      "altitude": 10,
+      "satellites": 9,
+      "timestamp": "2026-04-22T20:41:27.445Z",
+      "receivedAt": "2026-04-22T20:41:27.824Z",
+      "_id": "A3BEK59qf9fHE0Hi"
+    },
+    "driver": {
+      "fullName": "Gayan Ranasinghe",
+      "licenseNumber": "B6137321",
+      "_id": "VRk2BSaxMlW5itg3"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP BSD-0003",
+    "deviceId": "DEV-0003",
+    "deviceImei": "377985297385899",
+    "make": "Bajaj",
+    "model": "RE",
+    "colour": "Yellow & Black",
+    "yearOfRegistration": 2012,
+    "engineNumber": "ENG483972",
+    "chassisNumber": "CHS614864902",
+    "driverId": "lqBxecMaotnFS56L",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.508Z",
+    "_id": "sB8RqfNbkxOP9RMM",
+    "lastLocation": {
+      "vehicleId": "sB8RqfNbkxOP9RMM",
+      "latitude": 7.314212,
+      "longitude": 80.609428,
+      "speed": 7.6,
+      "heading": 2,
+      "accuracy": 5.6,
+      "altitude": 173,
+      "satellites": 7,
+      "timestamp": "2026-04-22T20:58:20.467Z",
+      "receivedAt": "2026-04-22T20:58:20.626Z",
+      "_id": "Pom20WIgwzFm1Odp"
+    },
+    "driver": {
+      "fullName": "Samantha Gunawardena",
+      "licenseNumber": "B8551705",
+      "_id": "lqBxecMaotnFS56L"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP CAX-0042",
+    "deviceId": "DEV-0042",
+    "deviceImei": "282605201162542",
+    "make": "Ape",
+    "model": "City",
+    "colour": "Blue",
+    "yearOfRegistration": 2013,
+    "engineNumber": "ENG120936",
+    "chassisNumber": "CHS189011061",
+    "driverId": "kudiiE4JPsMVeQAC",
+    "stationId": "G05EsIcdfEWLMs1o",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.577Z",
+    "_id": "ZzFi2t6OXUBz3KcP",
+    "lastLocation": {
+      "vehicleId": "ZzFi2t6OXUBz3KcP",
+      "latitude": 7.294141,
+      "longitude": 80.632276,
+      "speed": 35.2,
+      "heading": 193,
+      "accuracy": 3.6,
+      "altitude": 142,
+      "satellites": 5,
+      "timestamp": "2026-04-22T19:49:10.388Z",
+      "receivedAt": "2026-04-22T19:49:11.963Z",
+      "_id": "uOsCtWonFCE2P3xV"
+    },
+    "driver": {
+      "fullName": "Namal Silva",
+      "licenseNumber": "B4297117",
+      "_id": "kudiiE4JPsMVeQAC"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP DJC-0197",
+    "deviceId": "DEV-0197",
+    "deviceImei": "122813398815109",
+    "make": "TVS",
+    "model": "King",
+    "colour": "Blue",
+    "yearOfRegistration": 2017,
+    "engineNumber": "ENG920635",
+    "chassisNumber": "CHS637281990",
+    "driverId": "eNMxg7PyXO5YUYP2",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.696Z",
+    "_id": "xF991Y70B3dlLAt5",
+    "lastLocation": {
+      "vehicleId": "xF991Y70B3dlLAt5",
+      "latitude": 7.261662,
+      "longitude": 80.590883,
+      "speed": 51,
+      "heading": 338,
+      "accuracy": 9.1,
+      "altitude": 121,
+      "satellites": 6,
+      "timestamp": "2026-04-22T19:34:53.496Z",
+      "receivedAt": "2026-04-22T19:34:54.868Z",
+      "_id": "ulazfRqSyKzuuM6G"
+    },
+    "driver": {
+      "fullName": "Dilan Jayasinghe",
+      "licenseNumber": "B6574434",
+      "_id": "eNMxg7PyXO5YUYP2"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP DUD-0046",
+    "deviceId": "DEV-0046",
+    "deviceImei": "652659242675292",
+    "make": "TVS",
+    "model": "King",
+    "colour": "Yellow",
+    "yearOfRegistration": 2013,
+    "engineNumber": "ENG916830",
+    "chassisNumber": "CHS353906760",
+    "driverId": "7Xnva31uB8hxLcrY",
+    "stationId": "GRMyCrXeyTtQd3OE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.578Z",
+    "_id": "XGOQAyKq2qyW5iTC",
+    "lastLocation": {
+      "vehicleId": "XGOQAyKq2qyW5iTC",
+      "latitude": 7.267648,
+      "longitude": 80.678304,
+      "speed": 33.8,
+      "heading": 265,
+      "accuracy": 12.3,
+      "altitude": 198,
+      "satellites": 7,
+      "timestamp": "2026-04-22T21:02:29.162Z",
+      "receivedAt": "2026-04-22T21:02:30.888Z",
+      "_id": "az1B77IqEYP0QUPt"
+    },
+    "driver": {
+      "fullName": "Asanka Rajapaksa",
+      "licenseNumber": "B4607379",
+      "_id": "7Xnva31uB8hxLcrY"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP ECU-0113",
+    "deviceId": "DEV-0113",
+    "deviceImei": "781885560378460",
+    "make": "Bajaj",
+    "model": "RE Compact",
+    "colour": "Yellow & Black",
+    "yearOfRegistration": 2022,
+    "engineNumber": "ENG666012",
+    "chassisNumber": "CHS379844526",
+    "driverId": "L1qAJcjjNPPEy9Yh",
+    "stationId": "G05EsIcdfEWLMs1o",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.666Z",
+    "_id": "uWDZ5k1kFA7EL7J2",
+    "lastLocation": {
+      "vehicleId": "uWDZ5k1kFA7EL7J2",
+      "latitude": 7.284304,
+      "longitude": 80.626311,
+      "speed": 53.5,
+      "heading": 302,
+      "accuracy": 14.8,
+      "altitude": 114,
+      "satellites": 5,
+      "timestamp": "2026-04-22T19:39:47.269Z",
+      "receivedAt": "2026-04-22T19:39:48.147Z",
+      "_id": "GYI5HUP81TqF2jQD"
+    },
+    "driver": {
+      "fullName": "Kamal Gunawardena",
+      "licenseNumber": "B3644877",
+      "_id": "L1qAJcjjNPPEy9Yh"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP HGN-0060",
+    "deviceId": "DEV-0060",
+    "deviceImei": "196537838265738",
+    "make": "Ape",
+    "model": "City",
+    "colour": "Green",
+    "yearOfRegistration": 2022,
+    "engineNumber": "ENG346642",
+    "chassisNumber": "CHS528287181",
+    "driverId": "aunQ9Ard2rRKYXzR",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.585Z",
+    "_id": "EjavUSnD6UNhTnZP",
+    "lastLocation": {
+      "vehicleId": "EjavUSnD6UNhTnZP",
+      "latitude": 7.251413,
+      "longitude": 80.65,
+      "speed": 39,
+      "heading": 159,
+      "accuracy": 7.3,
+      "altitude": 6,
+      "satellites": 11,
+      "timestamp": "2026-04-22T21:01:19.855Z",
+      "receivedAt": "2026-04-22T21:01:20.498Z",
+      "_id": "D6tcrl3jb8d1CVcV"
+    },
+    "driver": {
+      "fullName": "Gayan Madushanka",
+      "licenseNumber": "B8952551",
+      "_id": "aunQ9Ard2rRKYXzR"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP JBD-0009",
+    "deviceId": "DEV-0009",
+    "deviceImei": "103983210684739",
+    "make": "Piaggio",
+    "model": "Ape City",
+    "colour": "Yellow & Black",
+    "yearOfRegistration": 2018,
+    "engineNumber": "ENG315427",
+    "chassisNumber": "CHS109945274",
+    "driverId": "TcwYXKUGrXClPX9Y",
+    "stationId": "GRMyCrXeyTtQd3OE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.565Z",
+    "_id": "q3NH5HPVJT0JoXEj",
+    "lastLocation": {
+      "vehicleId": "q3NH5HPVJT0JoXEj",
+      "latitude": 7.273525,
+      "longitude": 80.632846,
+      "speed": 33,
+      "heading": 157,
+      "accuracy": 5.8,
+      "altitude": 192,
+      "satellites": 8,
+      "timestamp": "2026-04-22T21:00:13.900Z",
+      "receivedAt": "2026-04-22T21:00:14.279Z",
+      "_id": "P0dRrzLcRKvmspLG"
+    },
+    "driver": {
+      "fullName": "Upul Seneviratne",
+      "licenseNumber": "B4043487",
+      "_id": "TcwYXKUGrXClPX9Y"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP JXS-0152",
+    "deviceId": "DEV-0152",
+    "deviceImei": "214644309411407",
+    "make": "Mahindra",
+    "model": "Alfa Plus",
+    "colour": "Yellow",
+    "yearOfRegistration": 2019,
+    "engineNumber": "ENG822873",
+    "chassisNumber": "CHS721981400",
+    "driverId": "LG9SWjftpXBkK6nc",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "SUSPENDED",
+    "createdAt": "2026-04-22T21:02:03.680Z",
+    "_id": "lpFr5H24ISnoovBQ",
+    "driver": {
+      "fullName": "Tharaka Dissanayake",
+      "licenseNumber": "B2817305",
+      "_id": "LG9SWjftpXBkK6nc"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    },
+    "lastLocation": null
+  },
+  {
+    "registrationNumber": "CP KCF-0118",
+    "deviceId": "DEV-0118",
+    "deviceImei": "265536178926171",
+    "make": "Ape",
+    "model": "City",
+    "colour": "Yellow & Black",
+    "yearOfRegistration": 2012,
+    "engineNumber": "ENG197447",
+    "chassisNumber": "CHS352196029",
+    "driverId": "TlWRIEwsRqRygHHB",
+    "stationId": "GRMyCrXeyTtQd3OE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.668Z",
+    "_id": "bKs6d0olBxPsVrIh",
+    "lastLocation": {
+      "vehicleId": "bKs6d0olBxPsVrIh",
+      "latitude": 7.25879,
+      "longitude": 80.63614,
+      "speed": 7,
+      "heading": 102,
+      "accuracy": 4.4,
+      "altitude": 150,
+      "satellites": 6,
+      "timestamp": "2026-04-22T20:59:03.220Z",
+      "receivedAt": "2026-04-22T20:59:04.563Z",
+      "_id": "HphfF65E5VB5WdiN"
+    },
+    "driver": {
+      "fullName": "Samantha Senanayake",
+      "licenseNumber": "B3087828",
+      "_id": "TlWRIEwsRqRygHHB"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP LCR-0080",
+    "deviceId": "DEV-0080",
+    "deviceImei": "857898752505200",
+    "make": "Mahindra",
+    "model": "Alfa Plus",
+    "colour": "Green",
+    "yearOfRegistration": 2014,
+    "engineNumber": "ENG350179",
+    "chassisNumber": "CHS689032288",
+    "driverId": "eNSsZOaZU2nDsmpc",
+    "stationId": "GRMyCrXeyTtQd3OE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.592Z",
+    "_id": "KGnselwOdtAukIP5",
+    "lastLocation": {
+      "vehicleId": "KGnselwOdtAukIP5",
+      "latitude": 7.322692,
+      "longitude": 80.660631,
+      "speed": 37.7,
+      "heading": 148,
+      "accuracy": 11.3,
+      "altitude": 200,
+      "satellites": 6,
+      "timestamp": "2026-04-22T21:02:08.022Z",
+      "receivedAt": "2026-04-22T21:02:09.271Z",
+      "_id": "5kUZ3MqCzTqZNSLn"
+    },
+    "driver": {
+      "fullName": "Kamal Rajapaksa",
+      "licenseNumber": "B9260824",
+      "_id": "eNSsZOaZU2nDsmpc"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP NCL-0083",
+    "deviceId": "DEV-0083",
+    "deviceImei": "610086296546321",
+    "make": "TVS",
+    "model": "King",
+    "colour": "Yellow",
+    "yearOfRegistration": 2023,
+    "engineNumber": "ENG727726",
+    "chassisNumber": "CHS921509299",
+    "driverId": "OieyCDaVUXRiPbn9",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.594Z",
+    "_id": "Kc095OrFVG76IGKk",
+    "lastLocation": {
+      "vehicleId": "Kc095OrFVG76IGKk",
+      "latitude": 7.303355,
+      "longitude": 80.59687,
+      "speed": 43.6,
+      "heading": 250,
+      "accuracy": 7.6,
+      "altitude": 141,
+      "satellites": 10,
+      "timestamp": "2026-04-22T19:06:35.406Z",
+      "receivedAt": "2026-04-22T19:06:37.303Z",
+      "_id": "uakvFOtCY1Fchfyl"
+    },
+    "driver": {
+      "fullName": "Isuru Rajapaksa",
+      "licenseNumber": "B4617471",
+      "_id": "OieyCDaVUXRiPbn9"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP NXJ-0040",
+    "deviceId": "DEV-0040",
+    "deviceImei": "951766507680076",
+    "make": "Piaggio",
+    "model": "Ape City",
+    "colour": "Yellow",
+    "yearOfRegistration": 2019,
+    "engineNumber": "ENG582269",
+    "chassisNumber": "CHS748249219",
+    "driverId": "IP5FZYaIFenvliTl",
+    "stationId": "G05EsIcdfEWLMs1o",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.577Z",
+    "_id": "rRuycfn8wqXwBpWs",
+    "lastLocation": {
+      "vehicleId": "rRuycfn8wqXwBpWs",
+      "latitude": 7.300296,
+      "longitude": 80.650122,
+      "speed": 49.2,
+      "heading": 250,
+      "accuracy": 5.7,
+      "altitude": 196,
+      "satellites": 10,
+      "timestamp": "2026-04-22T20:50:28.380Z",
+      "receivedAt": "2026-04-22T20:50:29.280Z",
+      "_id": "JHvkNDjj339srkGV"
+    },
+    "driver": {
+      "fullName": "Sunil Ranasinghe",
+      "licenseNumber": "B7567041",
+      "_id": "IP5FZYaIFenvliTl"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP PAA-0098",
+    "deviceId": "DEV-0098",
+    "deviceImei": "564943500204472",
+    "make": "TVS",
+    "model": "King Deluxe",
+    "colour": "Blue",
+    "yearOfRegistration": 2013,
+    "engineNumber": "ENG473115",
+    "chassisNumber": "CHS873976040",
+    "driverId": "TpniIniY4aLuh4tX",
+    "stationId": "GRMyCrXeyTtQd3OE",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.599Z",
+    "_id": "lzJAnpP3uaTRVMIW",
+    "lastLocation": {
+      "vehicleId": "lzJAnpP3uaTRVMIW",
+      "latitude": 7.274842,
+      "longitude": 80.643471,
+      "speed": 30.8,
+      "heading": 267,
+      "accuracy": 9.5,
+      "altitude": 134,
+      "satellites": 7,
+      "timestamp": "2026-04-22T19:08:53.238Z",
+      "receivedAt": "2026-04-22T19:08:54.951Z",
+      "_id": "Et6NycKqk1ngHZB0"
+    },
+    "driver": {
+      "fullName": "Gayan Fernando",
+      "licenseNumber": "B4504117",
+      "_id": "TpniIniY4aLuh4tX"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP RYY-0180",
+    "deviceId": "DEV-0180",
+    "deviceImei": "686471408303425",
+    "make": "TVS",
+    "model": "King Deluxe",
+    "colour": "Blue",
+    "yearOfRegistration": 2016,
+    "engineNumber": "ENG875258",
+    "chassisNumber": "CHS471287662",
+    "driverId": "sEQb7C5NhSrGOfBz",
+    "stationId": "G05EsIcdfEWLMs1o",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.690Z",
+    "_id": "N9KdTO9BwuT3tnHm",
+    "lastLocation": {
+      "vehicleId": "N9KdTO9BwuT3tnHm",
+      "latitude": 7.283142,
+      "longitude": 80.60084,
+      "speed": 43.5,
+      "heading": 202,
+      "accuracy": 6,
+      "altitude": 152,
+      "satellites": 6,
+      "timestamp": "2026-04-22T20:41:46.475Z",
+      "receivedAt": "2026-04-22T20:41:46.747Z",
+      "_id": "7sPu2qnpSMCZghTT"
+    },
+    "driver": {
+      "fullName": "Hasith Perera",
+      "licenseNumber": "B7030949",
+      "_id": "sEQb7C5NhSrGOfBz"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP UKT-0093",
+    "deviceId": "DEV-0093",
+    "deviceImei": "380821446398326",
+    "make": "Mahindra",
+    "model": "Alfa Plus",
+    "colour": "Yellow & Black",
+    "yearOfRegistration": 2013,
+    "engineNumber": "ENG138469",
+    "chassisNumber": "CHS932329344",
+    "driverId": "1a4BTVVyf3sHbj7W",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.597Z",
+    "_id": "RxidOR3mutmHQIoj",
+    "lastLocation": {
+      "vehicleId": "RxidOR3mutmHQIoj",
+      "latitude": 7.308594,
+      "longitude": 80.588916,
+      "speed": 0.1,
+      "heading": 188,
+      "accuracy": 11.1,
+      "altitude": 118,
+      "satellites": 9,
+      "timestamp": "2026-04-22T21:01:24.980Z",
+      "receivedAt": "2026-04-22T21:01:25.878Z",
+      "_id": "7a5SmMmK1tJfXMJ4"
+    },
+    "driver": {
+      "fullName": "Nuwan Senanayake",
+      "licenseNumber": "B2850674",
+      "_id": "1a4BTVVyf3sHbj7W"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP VYK-0193",
+    "deviceId": "DEV-0193",
+    "deviceImei": "144128511379325",
+    "make": "Mahindra",
+    "model": "Alfa Plus",
+    "colour": "Yellow",
+    "yearOfRegistration": 2019,
+    "engineNumber": "ENG314227",
+    "chassisNumber": "CHS677288758",
+    "driverId": "lRIL9pUtymuTHBqY",
+    "stationId": "G05EsIcdfEWLMs1o",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.695Z",
+    "_id": "0b8wQQpsPQQDK3Wo",
+    "lastLocation": {
+      "vehicleId": "0b8wQQpsPQQDK3Wo",
+      "latitude": 7.301201,
+      "longitude": 80.621494,
+      "speed": 48.3,
+      "heading": 166,
+      "accuracy": 12.8,
+      "altitude": 43,
+      "satellites": 6,
+      "timestamp": "2026-04-22T21:02:45.864Z",
+      "receivedAt": "2026-04-22T21:02:47.517Z",
+      "_id": "HYwXnQmSB45XNwUX"
+    },
+    "driver": {
+      "fullName": "Tharaka Wickramasinghe",
+      "licenseNumber": "B8057664",
+      "_id": "lRIL9pUtymuTHBqY"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP WWT-0121",
+    "deviceId": "DEV-0121",
+    "deviceImei": "678853830949736",
+    "make": "Bajaj",
+    "model": "RE",
+    "colour": "Yellow",
+    "yearOfRegistration": 2023,
+    "engineNumber": "ENG363849",
+    "chassisNumber": "CHS791541010",
+    "driverId": "B7SaCnBVHJo5lMY8",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.669Z",
+    "_id": "wWQBwoqU4f4g8ZdL",
+    "lastLocation": {
+      "vehicleId": "wWQBwoqU4f4g8ZdL",
+      "latitude": 7.288253,
+      "longitude": 80.621587,
+      "speed": 39.1,
+      "heading": 282,
+      "accuracy": 5.3,
+      "altitude": 10,
+      "satellites": 12,
+      "timestamp": "2026-04-22T19:05:02.159Z",
+      "receivedAt": "2026-04-22T19:05:03.003Z",
+      "_id": "K2xdbBtnkHN3sMiD"
+    },
+    "driver": {
+      "fullName": "Ruwan Rathnayake",
+      "licenseNumber": "B8166480",
+      "_id": "B7SaCnBVHJo5lMY8"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP XAJ-0097",
+    "deviceId": "DEV-0097",
+    "deviceImei": "653628943829084",
+    "make": "Mahindra",
+    "model": "Alfa Plus",
+    "colour": "Blue",
+    "yearOfRegistration": 2019,
+    "engineNumber": "ENG857765",
+    "chassisNumber": "CHS111455225",
+    "driverId": "kwEPQe0p8TK7NNHj",
+    "stationId": "G05EsIcdfEWLMs1o",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.598Z",
+    "_id": "DJj6Aoxc7raOZ9k4",
+    "lastLocation": {
+      "vehicleId": "DJj6Aoxc7raOZ9k4",
+      "latitude": 7.304478,
+      "longitude": 80.657245,
+      "speed": 39.8,
+      "heading": 14,
+      "accuracy": 9.9,
+      "altitude": 181,
+      "satellites": 5,
+      "timestamp": "2026-04-22T20:12:21.662Z",
+      "receivedAt": "2026-04-22T20:12:22.525Z",
+      "_id": "mZoK04BwQGVBO1tm"
+    },
+    "driver": {
+      "fullName": "Manoj Silva",
+      "licenseNumber": "B1156176",
+      "_id": "kwEPQe0p8TK7NNHj"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  },
+  {
+    "registrationNumber": "CP YRX-0062",
+    "deviceId": "DEV-0062",
+    "deviceImei": "223907154825511",
+    "make": "Piaggio",
+    "model": "Ape City",
+    "colour": "Yellow",
+    "yearOfRegistration": 2018,
+    "engineNumber": "ENG846270",
+    "chassisNumber": "CHS730351402",
+    "driverId": "JCHrXlQp6ESq3fsl",
+    "stationId": "ha32LQDOv9LyCnNZ",
+    "provinceId": "93bF96c1lf4D83Aw",
+    "districtId": "yWBMwWmKJegSVxho",
+    "status": "ACTIVE",
+    "createdAt": "2026-04-22T21:02:03.585Z",
+    "_id": "zBTZkkVpj8CYty06",
+    "lastLocation": {
+      "vehicleId": "zBTZkkVpj8CYty06",
+      "latitude": 7.294625,
+      "longitude": 80.633085,
+      "speed": 53.3,
+      "heading": 4,
+      "accuracy": 8.6,
+      "altitude": 58,
+      "satellites": 10,
+      "timestamp": "2026-04-22T19:21:40.578Z",
+      "receivedAt": "2026-04-22T19:21:40.961Z",
+      "_id": "YKCTywZDzMSueouS"
+    },
+    "driver": {
+      "fullName": "Gayan Pathirana",
+      "licenseNumber": "B3566085",
+      "_id": "JCHrXlQp6ESq3fsl"
+    },
+    "district": {
+      "name": "Kandy",
+      "_id": "yWBMwWmKJegSVxho"
+    },
+    "province": {
+      "name": "Central Province",
+      "_id": "93bF96c1lf4D83Aw"
+    }
+  }
+]
