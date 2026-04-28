@@ -95,8 +95,8 @@ scripts/
 ```
 
 ## 🌐 Live Deployment
-- **API Service**: http://167.172.2.149/
-- **Health Check**: http://167.172.2.149/api/v1/health
+- **API Service**: https://167.172.2.149.nip.io/
+- **Health Check**: https://167.172.2.149.nip.io/api/v1/health
 
 ## 📚 Module
 
