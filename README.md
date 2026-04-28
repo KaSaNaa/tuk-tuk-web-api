@@ -37,12 +37,12 @@ Swagger Docs: http://localhost:3000/api-docs
 | Method | Endpoint                          | Description                      |
 |--------|-----------------------------------|----------------------------------|
 | POST   | /api/v1/auth/login                | Login (get JWT)                  |
-| GET    | /api/v1/vehicles/:id/location     | 🔴 Live last-known location       |
-| GET    | /api/v1/vehicles/:id/history      | 📍 Movement log (time window)     |
-| GET    | /api/v1/locations/live            | 🗺 Live dashboard (all vehicles)  |
-| POST   | /api/v1/locations                 | 📡 GPS device push               |
-| GET    | /api/v1/vehicles?provinceId=xxx   | Province-filtered vehicle list    |
-| GET    | /api/v1/vehicles?districtId=xxx   | District-filtered vehicle list    |
+| GET    | /api/v1/vehicles/:id/location     | Live last-known location         |
+| GET    | /api/v1/vehicles/:id/history      | Movement log (time window)       |
+| GET    | /api/v1/locations/live            | Live dashboard (all vehicles)    |
+| POST   | /api/v1/locations                 | GPS device push                  |
+| GET    | /api/v1/vehicles?provinceId=xxx   | Province-filtered vehicle list   |
+| GET    | /api/v1/vehicles?districtId=xxx   | District-filtered vehicle list   |
 
 ## System Architecture
 
