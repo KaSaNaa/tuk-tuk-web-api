@@ -94,11 +94,10 @@ scripts/
 └── simulate.js             — GPS live simulation CLI
 ```
 
-## 🌐 Deployment
-
-Deployed on Render.com: https://tuk-track-api.onrender.com
+## 🌐 Live Deployment
+- **API Service**: http://167.172.2.149/
+- **Health Check**: http://167.172.2.149/api/v1/health
 
 ## 📚 Module
 
 NB6007CEM – Web API Development  
-Collaborative Programme – NIBM / Coventry University
